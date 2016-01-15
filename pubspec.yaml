@@ -1,0 +1,7 @@
+name: simple_sprites
+description: A minimal Flutter project.
+dependencies:
+  flutter:
+    path: ../../../../Volumes/Dev/flutter/packages/flutter
+  flutter_sprites:
+    path: ../../../../Volumes/Dev/flutter/packages/flutter_sprites
